@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DominoChallengeSeries</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="CodePushDeploymentKey" moduleConfig="true" translatable="false"></string>
+</resources>
